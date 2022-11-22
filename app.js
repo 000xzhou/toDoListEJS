@@ -17,11 +17,7 @@ const home = "/"
 const deleteList = "/delete"
 
 // Mongo uri
-const mongoUser = "Admin-Xiang"
-const mongoPassword = "nKo8MHHRpIao6ZDw"
-const database = "todoListDB"
-const clusterPort = "cluster0.87qcdgj"
-const uri = `mongodb+srv://${mongoUser}:${mongoPassword}@${clusterPort}.mongodb.net/${database}?retryWrites=true&w=majority`;
+const uri = 'all your db here'
 
 
 
